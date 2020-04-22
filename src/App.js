@@ -15,7 +15,7 @@ function App() {
     alt = "logo" / >
     <
     p >
-    Boom, changes were made...
+    Boom, mistakes were made...
     <
     /p> <
     a className = "App-link"
